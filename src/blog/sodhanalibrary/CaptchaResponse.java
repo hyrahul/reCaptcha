@@ -8,7 +8,8 @@ public class CaptchaResponse {
 	}
 
 	public void setSuccess(boolean success) {
-		this.success = success;
+		this.success = success;	
 	}
-
+	System.out.println("Testing of email service");
+	
 }
